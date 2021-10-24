@@ -1,5 +1,6 @@
 ### olá eu sou o kaiky luiz, seja bem vindo(a) ao meu perfil.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyLuiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Kaiky Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyLuiz&show_icons=true&theme=tokyonight)
 
 
